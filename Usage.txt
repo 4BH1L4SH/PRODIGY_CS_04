@@ -1,0 +1,6 @@
+Clone the Repository:
+
+   git clone https://github.com/4BH1L4SH/PRODIGY_CS_04.git
+
+   cd PRODIGY_CS_04
+
